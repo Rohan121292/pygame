@@ -5,3 +5,10 @@ This code is a maze game where the player controls a character, represented by a
 
 The game also incorporates a scoring system, where the player earns points by collecting food. The game’s runtime and the points scored are recorded and saved to an Excel file. Additionally, the game generates and displays several plots showing the distribution of game completion times, a scatterplot of game completion times versus points scored, and a trend line of game scores over time. This provides an analytical perspective on the player’s performance over time. The game also uses a random seed to generate random positions for the food and monsters, adding an element of unpredictability to each game session.
 
+
+
+![Gameplay](https://github.com/Rohan121292/pygame/blob/main/gameplay.png)
+
+
+
+![Screenshot of my project](https://github.com/Rohan121292/pygame/blob/main/wining_image.png)
